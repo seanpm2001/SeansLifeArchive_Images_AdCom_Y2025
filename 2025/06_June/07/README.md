@@ -315,7 +315,8 @@ Shortened session
 
 </details>
 
-- I did not play the game yet today, I plan to play after 10:00 pm, but I am not sure if I will get to it today. I would have played this morning, but I overslept significantly. - 2025, Saturday, June 7th
+- I did not play the game yet today, I plan to play after 10:00 pm, but I am not sure if I will get to it today. I would have played this morning, but I overslept significantly.
+- I ended up not playing today, as I needed to go to bed earlier, due to poor sleep last night. - 2025, Saturday, June 7th
 
 ---
 
@@ -523,10 +524,11 @@ See above.
 - - I upgraded my potato industry production output to level 9 for 20,000 science (`256` -> `512x`)
 - - I upgraded my fortress production speed to level 2 for 50 science (`2x` -> `4x`)
 - I didn't do any other upgrades this week. - 2025, Saturday, May 17th
+- I didn't do any card upgrades this week, as I am waiting for a quest related to spending science or upgrading cards to come up first. - 2025, Saturday, May 24th to 2025, Saturday, May 31st
 
 </details>
 
-- I didn't do any card upgrades this week, as I am waiting for a quest related to spending science or upgrading cards to come up first. - 2025, Saturday, May 24th to 2025, Saturday, May 31st
+- My session was skipped today. - 2025, Saturday, June 7th
 
 ***
 
@@ -565,10 +567,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -597,10 +600,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -643,10 +647,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -688,10 +693,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -734,10 +740,11 @@ See above.
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
 - The event was active this week, but I chose not to play it. - 2025, Saturday, May 17th
+- The event was not active this week. - 2025, Saturday, May 24th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 24th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -779,10 +786,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -824,10 +832,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -860,10 +869,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -905,10 +915,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -954,10 +965,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
 - The event was not active this week. - 2025, Saturday, May 17th
 - The event was active this week, but I decided not to play in it. - 2025, Saturday, May 24th
+- The event was not active this week. - 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -998,10 +1010,11 @@ See above.
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
 - The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 24th
+- The event was active this week, but I didn't join it, as I didn't feel like doing so. - 2025, Saturday, May 31st
 
 </details>
 
-- The event was active this week, but I didn't join it, as I didn't feel like doing so. - 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -1035,10 +1048,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -1066,10 +1080,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -1096,10 +1111,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -1124,10 +1140,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -1153,10 +1170,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -1179,10 +1197,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -1205,10 +1224,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -1223,10 +1243,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -1238,10 +1259,11 @@ See above.
 - I was not active this week, so I am not sure what events were active. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
 
 </details>
 
-- The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 ---
 
@@ -1271,6 +1293,6 @@ See above.
 
 # File info
 
-**File version** _1 (2025, Saturday, June 7th at 01:23 pm PST)_
+**File version** _2 (2025, Sunday, June 14th at 03:16 pm PST)_
 
 ***
