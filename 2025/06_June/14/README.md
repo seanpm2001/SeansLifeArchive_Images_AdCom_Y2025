@@ -312,13 +312,14 @@ Shortened session
 - I resumed gameplay this week for a second consecutive week, and had a medium length gameplay session, lasting about 59 minutes. The game did not require an update. I made some progress in rank 76, going from 3/16 to 10/16. I did not upgrade any cards this week, as I am waiting for a related quest to come up first. The game never crashed today, and I eventually quit. I had a decent time playing. It was a late night session, and I went to play AdVenture Capitalist next. - 2025, Saturday, May 24th
 - ~~I did not play the game yet today, I plan to play after 10:00 pm, but I am not sure if gameplay will be guaranteed. I considered playing AdVenture Communist this morning, but decided to do other things instead.~~
 - I resumed gameplay this week for a third consecutive week, and had a medium length gameplay session, lasting about 47 minutes. The game did not require an update this week. I made some progress in rank 76, going from 10/16 to 12/16. I did not upgrade any cards this week, as I am waiting for a related quest to come up first. The game never crashed today, and I eventually quit. I had a decent time playing. It was a late night session, and I went to play AdVenture Capitalist next. - 2025, Saturday, May 31st
-
-</details>
-
 - I did not play the game yet today, I plan to play after 10:00 pm, but I am not sure if I will get to it today. I would have played this morning, but I overslept significantly.
 - I ended up not playing today, as I needed to go to bed earlier, due to poor sleep last night. - 2025, Saturday, June 7th
 
-- I did not play the game yet today, I plan to play after 10:00 pm, but I am not sure if I will get to it today. - 2025, Saturday, June 14th
+</details>
+
+- ~~I did not play the game yet today, I plan to play after 10:00 pm, but I am not sure if I will get to it today.~~
+- I resumed gameplay this week, after a 2 week break, and had a short length gameplay session, lasting about 32 minutes. The game did not require an update this week. I made some progress in rank 76, going from 12/16 to 13/16. I did not upgrade any cards this week, as I am waiting for a related quest to come up first. The game never crashed today, and I eventually quit. I had a decent time playing. It was a late night session, and I went to play AdVenture Capitalist next. - 2025, Saturday, June 14th
+
 
 ---
 
@@ -527,10 +528,11 @@ See above.
 - - I upgraded my fortress production speed to level 2 for 50 science (`2x` -> `4x`)
 - I didn't do any other upgrades this week. - 2025, Saturday, May 17th
 - I didn't do any card upgrades this week, as I am waiting for a quest related to spending science or upgrading cards to come up first. - 2025, Saturday, May 24th to 2025, Saturday, May 31st
+- My session was skipped today. - 2025, Saturday, June 7th
 
 </details>
 
-- My session was skipped today. - 2025, Saturday, June 7th
+- I didn't do any card upgrades this week, as I am waiting for a quest related to spending science or upgrading cards to come up first. - 2025, Saturday, June 14th
 
 ***
 
@@ -570,10 +572,11 @@ See above.
 - The event was not active this week. - 2025, Saturday, March 1st
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
 - The event was not active this week. - 2025, Saturday, May 17th to 2025, Saturday, May 31st
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -607,6 +610,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -654,6 +658,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -700,6 +705,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -747,6 +753,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -793,6 +800,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -839,6 +847,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -876,6 +885,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -922,6 +932,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -972,6 +983,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -1017,6 +1029,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -1055,6 +1068,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -1087,6 +1101,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was active this week, but I decided not to participate in it. - 2025, Sunday, June 14th
 
 ---
 
@@ -1118,6 +1133,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -1147,6 +1163,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -1177,6 +1194,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -1204,6 +1222,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -1231,6 +1250,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -1250,6 +1270,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -1266,6 +1287,7 @@ See above.
 </details>
 
 - I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 7th
+- The event was not active this week. - 2025, Saturday, June 14th
 
 ---
 
@@ -1295,6 +1317,6 @@ See above.
 
 # File info
 
-**File version** _1 (2025, Saturday, June 14th at 03:37 pm PST)_
+**File version** _2 (2025, Sunday, June 15th at 04:00 pm PST)_
 
 ***
