@@ -329,7 +329,8 @@ Shortened session
 
 </details>
 
-- ~~I did not play the game yet today, I plan to play after 10:00 pm, although it is unlikely, as I still have a lot to do today, and woke up too early, meaning I need to go to bed earlier. - 2025, Saturday, July 26th
+- ~~I did not play the game yet today, I plan to play after 10:00 pm, although it is unlikely, as I still have a lot to do today, and woke up too early, meaning I need to go to bed earlier.~~
+- I ended up skipping my session today, as I needed more sleep. I wanted to go to bed earlier, as I had 3 days this week in which I had about 6 hours of sleep or less. - 2025, Saturday, July 26th
 
 ---
 
@@ -543,7 +544,7 @@ See above.
 
 </details>
 
-- My session was skipped today. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- My session was skipped today. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ***
 
@@ -588,7 +589,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -623,7 +624,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -672,7 +673,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -720,7 +721,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -769,7 +770,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -817,7 +818,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -865,7 +866,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -904,7 +905,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -952,7 +953,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -1004,7 +1005,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -1051,7 +1052,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -1091,7 +1092,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -1125,7 +1126,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -1158,7 +1159,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -1189,7 +1190,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -1221,7 +1222,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -1250,7 +1251,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -1279,7 +1280,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -1300,7 +1301,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -1318,7 +1319,7 @@ See above.
 
 </details>
 
-- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 19th
+- I was not active this week, so I am not sure what events were active. - 2025, Saturday, June 21st to 2025, Saturday, July 26th
 
 ---
 
@@ -1348,6 +1349,6 @@ See above.
 
 # File info
 
-**File version** _1 (2025, Saturday, July 26th at 11:47 am PST)_
+**File version** _2 (2025, Sunday, July 27th at 02:22 pm PST)_
 
 ***
